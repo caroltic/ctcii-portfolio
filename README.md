@@ -7,7 +7,7 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
-# Portfolio
+# **Portfolio**
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
