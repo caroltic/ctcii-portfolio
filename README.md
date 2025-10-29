@@ -11,20 +11,14 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello there! My name is Carol Chen(she/her), a first-year MEIM student at Carnegie Mellon University, focusing on agency/management. Before I decided to pursue my master's in the entertainment industry, I double-majored in mathematics and film & media studies at UC Irvine, and have interned in several fields to figure out what I like most. So here I am! I hope to get the most out of my graduate school experience and be fully prepared for my future career.
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+1. Get introduced to using Tableau.
+2. Have improved data visualization skills and mindset.
+3. Meeting people with different academic backgrounds than I do.
 
 # Portfolio
 
@@ -32,10 +26,10 @@ or...
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design`.  
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
