@@ -45,10 +45,15 @@ To give my findings a broader context, I will also incorporate publicly accessib
 Here are the links to the current data I found:
 
 https://howtocalculate.net/pet-expense-calculator/
+
 https://www.statista.com/statistics/253976/pet-food-industry-expenditure-in-the-us/
+
 https://www.akc.org/press-center/articles-resources/facts-and-stats/cost-owning-dog/
+
 https://www.rover.com/blog/much-exercise-dog-need/
+
 https://bmcvetres.biomedcentral.com/articles/10.1186/s12917-020-02682-z
+
 https://www.chewy.com/education/dog/new-dog/how-much-does-a-dog-cost
 
 
