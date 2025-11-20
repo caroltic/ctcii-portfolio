@@ -8,11 +8,6 @@ For my final project, I want to explore my dog’s daily life through data. Inst
 
 The project will focus on a few core components, such as my dog’s daily walk routine, how environmental factors, including changing countries, influence his health and activity level, and the actual financial cost of owning him compared to the average American dog, based on publicly available and reliable data from major pet organizations. By collecting data on everything from his vet visits, food intake, daily activities, and monthly expenses, I hope to build a data visualization of what it actually looks like to care for my dog. While the project is personal and specific, it will use data visualizations to explore a broader question: How does my own dog ownership compare to national financial expectations and general nutrition guidelines for dogs in the United States?
 
-
-Introduction: 
-
-I will begin by explaining why I decided to analyze my dog’s behavior, health, and care using data. Even though dog ownership is a regular part of my daily life, I want to understand what his needs actually look like in measurable terms so I can improve how I care for him. I will also start comparing my dog’s data with national average data, such as recommended exercise levels, average costs, and caloric guidelines, to see how close or far he is from a “typical” and ideal large dog in the United States.
-
 First Section:
 
 In this section, I will gather data from my daily routine with my dog by recording how frequently I take him on walks and how long each walk lasts. This dataset will be collected manually each day over two weeks, providing a clear picture of his overall exercise level. Then, I will compare this data to the nationally recommended exercise range for large-breed dogs, typically based on guidelines from major pet organizations such as the AKC. This comparison will help me determine whether he is getting enough physical activity and whether there is a big time gap in between his routine that I need to accommodate by adding more exercise for his long-term health.
