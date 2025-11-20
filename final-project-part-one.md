@@ -62,4 +62,4 @@ https://www.chewy.com/education/dog/new-dog/how-much-does-a-dog-cost
 I plan to use Tableau as the primary tool for creating all my data visualizations. Since some of my datasets are collected over two weeks, and some are previous expenses, I will organize the data using Excel sheets and export them as CSV files for Tableau. Once the graphs are created in Tableau, I may use photo-editing software to add small visual elements, such as icons of kibbles, toys, and vegetables, after exporting the graphs (I will try directly adding them in Tableau first). At the very last step, I will use Shorthand to create an interactive page that integrates my data visualization, narrative text, and photos into a single story. 
 
 # References
-Not yet used in this part of the final project, I only did an estimated rough sketch using the data.
+Not yet used in this part of the final project, I only did a rough sketch.
