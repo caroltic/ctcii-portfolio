@@ -4,9 +4,9 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+For my final project, I want to explore my dog’s daily life through data. Instead of focusing solely on national data and broad patterns about dogs, this project will center on original datasets I create myself, along with some general comparisons to national averages, such as how much I spend on my dog vs. how much it costs to raise a typical large dog in the United States. The datasets I will create will be drawn from my dog’s routines, costs, and environment. My goal is to transform everyday observations into structured data that reveals patterns I might otherwise overlook in daily life. I also want to use this project to improve my dog’s health and strengthen my overall connection with him.
+
+The project will focus on a few core components, such as my dog’s daily walk routine, how environmental factors, including changing countries, influence his health and activity level, and the actual financial cost of owning him compared to the average American dog, based on publicly available and reliable data from major pet organizations. By collecting data on everything from his vet visits, food intake, daily activities, and monthly expenses, I hope to build a data-driven portrait of what it actually looks like to care for my dog. While the project is personal and specific, it will use data visualizations to explore a broader question: How does my own dog ownership compare to national expectations, financial norms, and general guidelines for dogs in the United States?
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
