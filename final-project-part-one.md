@@ -13,6 +13,7 @@ Introduction:
 I will begin by explaining why I decided to analyze my dog’s behavior, health, and care using data. Even though dog ownership is a regular part of my daily life, I want to understand what his needs actually look like in measurable terms so I can improve how I care for him. I will also start comparing my dog’s data with national average data, such as recommended exercise levels, average costs, and caloric guidelines, to see how close or far he is from a “typical” and ideal large dog in the United States.
 
 First Section:
+![Sketch 1](https://github.com/caroltic/ctcii-portfolio/blob/main/Sketch%201.jpg?raw=true)
 
 In this section, I will gather data from my daily routine with my dog by recording how frequently I take him on walks and how long each walk lasts. This dataset will be collected manually each day over two weeks, providing a clear picture of his overall exercise level. Then, I will compare this data to the nationally recommended exercise range for large-breed dogs, typically based on guidelines from major pet organizations such as the AKC. This comparison will help me determine whether he is getting enough physical activity and whether there is a big time gap in between his routine that I need to accommodate by adding more exercise for his long-term health.
 Sketch 1: My dog’s daily exercise pattern vs. the National recommended exercise level
