@@ -39,6 +39,7 @@ For this project, I will mostly rely on datasets that I create myself by trackin
 To give my findings a broader context, I will also incorporate publicly accessible national-level data to compare my dog’s data to recommended standards and typical expectations for large-breed dogs in the United States. These sources on exercise, cost, and nutrition help answer my topic question by comparing my dog’s daily life with a typical or ideal large-dog routine. For the data I choose, I will use only reliable sources from major pet organizations and research institutions, including the AKC, Statista, Chewy, Rover, and other scholarly articles. The data they collected is either based on extensive customer surveys or on consumer data. These datasets will provide information on the average annual cost of owning a dog, recommended daily calorie intake, typical exercise expectations for large dogs, and pet-related spending in the United States. 
 
 Here are the links to the current data I found:
+
 https://howtocalculate.net/pet-expense-calculator/
 https://www.statista.com/statistics/253976/pet-food-industry-expenditure-in-the-us/
 https://www.akc.org/press-center/articles-resources/facts-and-stats/cost-owning-dog/
@@ -51,6 +52,5 @@ https://www.chewy.com/education/dog/new-dog/how-much-does-a-dog-cost
 
 I plan to use Tableau as the primary tool for creating all my data visualizations. Since some of my datasets are collected over two weeks, and some are previous expenses, I will organize the data using Excel sheets and export them as CSV files for Tableau. Once the graphs are created in Tableau, I may use photo-editing software to add small visual elements, such as icons of kibbles, toys, and vegetables, after exporting the graphs (I will try directly adding them in Tableau first). At the very last step, I will use Shorthand to create an interactive page that integrates my data visualization, narrative text, and photos into a single story. 
 
-
-## References
-Not an application to this part of my Final Project.
+# References
+Not yet used in this part of the final project, I only did an estimated rough sketch using the data.
