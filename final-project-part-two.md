@@ -43,12 +43,12 @@ Interviewee 2:
 |-------------------------|--------------------------------|-------------|-------------|
 | 1                       | Owns a dog that was adopted for companionship. |Does not have a dog yet but wants one in the future.|Does not have a dog yet but wants one soon.|
 | 2                       |Time commitment. Already overwhelmed as a grad student but still has to coordinate her schedule and time around her dog.| Making sure the future dog gets enough exercise.|Traveling across countries|
-| 3                       |                                |             |             |
-| 4                       |                                |             |             |
-| 5                       |                                |             |             |
-| 6                       |                                |             |             |
-| 7                       |                                |             |             |
-| 8                       |                                |             |             |
+| 3                       |Vet visits, food, and grooming.|Food|Food, plus adoption fees or the cost to buy a dog|
+| 4                       |Extremely important to keep dogs healthy|I’m guessing it’s the most important thing|I assume dogs need to be walked every day, maybe twice. Once in the morning and once at night, for a short neighborhood walk so they can relieve themselves.|
+| 5                       |Match my dog's portion size with what's written on the dog food bag|You should just feed them when they seem hungry.|Feed until the dog does not seem hungry anymore|
+| 6                       |Time and money|Training, cost, and health|Vet fees, international travel costs for flying with dogs, housing policies, and the overall cost of raising a future dog|
+| 7                       |The cost comparison chart, because I never kept track of how much I spent on my dog, and seeing each category broken down felt surreal.|The calorie comparisons, because I work out, so it was surprising to see that dogs also need a similar level of careful calculation as humans.|The China vs. U.S. vet visit frequency and fees comparison. It is relevant for me|
+| 8                       |Clearer reasons for vet visits when comparing international costs; why were the fees high? Was the dog sick?|More explanation about what happens when a dog is overfed or underfed|More recommendations about moving internationally with a dog.|
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
