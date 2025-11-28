@@ -41,7 +41,7 @@ Interviewee 2:
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| 1                       | Owns a dog that was adopted for companionship.                               |             |             |
+| 1                       | Owns a dog that was adopted for companionship. |Does not have a dog yet but wants one in the future.|Does not have a dog yet but wants one soon.|
 | 2                       |                                |             |             |
 | 3                       |                                |             |             |
 | 4                       |                                |             |             |
