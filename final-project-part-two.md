@@ -42,7 +42,7 @@ Interviewee 2:
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | 1                       | Owns a dog that was adopted for companionship. |Does not have a dog yet but wants one in the future.|Does not have a dog yet but wants one soon.|
-| 2                       |                                |             |             |
+| 2                       |Time commitment. Already overwhelmed as a grad student but still has to coordinate her schedule and time around her dog.| Making sure the future dog gets enough exercise.|Traveling across countries|
 | 3                       |                                |             |             |
 | 4                       |                                |             |             |
 | 5                       |                                |             |             |
