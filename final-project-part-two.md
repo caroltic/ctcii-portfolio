@@ -6,9 +6,10 @@ Shorthand Link: https://preview.shorthand.com/H0bA5E8fuC3pDDZx
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+The primary target audience for this project includes current dog owners, people considering getting a dog, and international students considering raising a dog while studying in the United States. I identified these audiences based on my personal experience as a Chinese American who owns a dog, started as a college student, and needs to bring my dog for travel across countries.
+
+The intended audience is directly reflected in each section of the project. The exercise and calorie intake sections are designed for dog owners and future owners who want to understand the daily health responsibilities required to keep a dog physically healthy and nutritionally balanced. The annual cost comparison section targets students and young adults who must actively budget their expenses and evaluate whether dog ownership is financially realistic at their current stage in life. The veterinary care comparison between China and the United States speaks directly to international students by revealing how differences in healthcare systems, environment, and weather factors for pets can significantly impact how often and why dogs receive medical care.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
