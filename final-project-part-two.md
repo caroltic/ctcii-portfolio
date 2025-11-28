@@ -33,24 +33,22 @@ When identifying representative individuals to interview, I focused on three mai
 
 8. Is there anything you feel confused about, or that you'd like to see more clearly shown in my data visualizations?
 
-d. the findings from your interviews; and 
-
-e. changes you plan on implementing to your visualizations next week to address the issues identified. 
-
-
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+Interviewee 1: CMU Master Student, 20s, Dog Owner for more than three years, travels between countries with her dog
+Interviewee 2: 
 
-Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+| 1                       | Owns a dog that was adopted for companionship.                               |             |             |
+| 2                       |                                |             |             |
+| 3                       |                                |             |             |
+| 4                       |                                |             |             |
+| 5                       |                                |             |             |
+| 6                       |                                |             |             |
+| 7                       |                                |             |             |
+| 8                       |                                |             |             |
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
