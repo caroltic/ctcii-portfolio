@@ -38,7 +38,7 @@ Interviewee 2: CMU Master Student, 20s, Wants to have a dog soon.
 Interviewee 3: CMU Master Student, 20s, International student, wants to get a dog when she is here.
 
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1| Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | 1                       |The cost comparison chart, because I never kept track of how much I spent on my dog, and seeing each category broken down felt surreal.|The calorie comparisons, because I work out, so it was surprising to see that dogs also need a similar level of careful calculation as humans.|The China vs. U.S. vet visit frequency and fees comparison. It is relevant for me.|
 | 2                       |Clearer reasons for vet visits when comparing international costs; why were the fees high? Was the dog sick?|More explanation about what happens when a dog is overfed or underfed.|More recommendations about moving internationally with a dog.|
