@@ -36,6 +36,7 @@ When identifying representative individuals to interview, I focused on three mai
 Interviewee 1: CMU Master Student, 20s, Dog Owner for more than three years, travels between countries with her dog
 Interviewee 2: CMU Master Student, 20s, Wants to have a dog soon.
 Interviewee 3: CMU Master Student, 20s, International student, wants to get a dog when she is here.
+Interviewee 4: CMU Master Student, 20s, Dog Owner, never brought her dog to travel both wants to.
 
 
 | Questions               | Interview 1| Interview 2 | Interview 3 |Interview 4|
@@ -50,15 +51,14 @@ Interviewee 3: CMU Master Student, 20s, International student, wants to get a do
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
 Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Clearer context for vet visits, especially why costs were high and whether visits were emergencies, illness-related, or routine | Break vet care into two subsections: (1) visit frequency by country, and (2) visit type by health issue (routine vs emergency vs illness) |
-|Tie calorie recommendation to a specific dog weight| Add my dog's weight and age in subtitle or in annotation|
-|The dip in the daily calorie chart is confusing| Show the daily calories were shown as bars, and then the average was a line on top, like what I did in section 2|
+| Clearer context for vet visits, especially why costs were high and whether visits were emergencies, illness-related, or routine | Break vet care into two subsections: (1) visit frequency by country, and (2) visit type by health issue (routine vs emergency vs illness). |
+|Tie calorie recommendation to a specific dog weight| Add my dog's weight and age in subtitle or in annotation.|
+|The dip in the daily calorie chart is confusing| Show the daily calories were shown as bars, and then the average was a line on top, like what I did in section 2.|
 |Compare Casper’s life quality between China and the states in all the categories, not just vet visits|I will expand the China vs. U.S. section to include exercise level, routine change, and environmental factors sucha s weathers in order to present a more complete comparison of Casper’s overall quality of life rather than cost alone.|
 
 
