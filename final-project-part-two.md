@@ -34,9 +34,13 @@ When identifying representative individuals to interview, I focused on three mai
 
 ## Interview findings
 Interviewee 1: CMU Master Student, 20s, Dog Owner for more than three years, travels between countries with her dog
+
 Interviewee 2: CMU Master Student, 20s, Wants to have a dog soon.
+
 Interviewee 3: CMU Master Student, 20s, International student, wants to get a dog when she is here.
+
 Interviewee 4: CMU Master Student, 20s, Dog Owner, never brought her dog to travel both wants to.
+
 Interviewee 5: CMU Master Student, 20s, has a small dog back home in China.
 
 
