@@ -59,8 +59,10 @@ Text here!
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Clearer context for vet visits, especially why costs were high and whether visits were emergencies, illness-related, or routine | Break vet care into two subsections: (1) visit frequency by country, and (2) visit type by health issue (routine vs emergency vs illness). |
 |Tie calorie recommendation to a specific dog weight| Add my dog's weight and age in subtitle or in annotation.|
-|The dip in the daily calorie chart is confusing| Show the daily calories were shown as bars, and then the average was a line on top, like what I did in section 1.|
+|The dip in the daily calorie chart is confusing| Show the daily calories as bars, and then the average was a line on top, like what I did in section 1.|
 |Compare Casper’s life quality between China and the states in all the categories, not just vet visits|I will expand the China vs. U.S. section to include exercise level, routine change, and environmental factors sucha s weathers in order to present a more complete comparison of Casper’s overall quality of life rather than cost alone.|
+|Better present the walk comparison graph; it's hard to understand the meaning of the color scheme before reading the description|Label clearly what each color represents, and note the meaning of the graph in the subtitle.|
+|Connect all of the graphs together to tell the story better.|Write clearly how each section and graph relates to one another.|
 
 
 ## AI acknowledgements
