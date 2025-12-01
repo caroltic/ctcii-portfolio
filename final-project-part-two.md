@@ -53,8 +53,6 @@ Interviewee 5: CMU Master Student, 20s, has a small dog back home in China.
 
 # Identified changes for Part III
 
-Text here!
-
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | Clearer context for vet visits, especially why costs were high and whether visits were emergencies, illness-related, or routine | Break vet care into two subsections: (1) visit frequency by country, and (2) visit type by health issue (routine vs emergency vs illness). |
