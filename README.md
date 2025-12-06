@@ -1,23 +1,18 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go, please reach out to me if you are interested in knowing more about a part of my portfolio!
 
 # About me
+
 Hello there! My name is Carol Chen(she/her), a first-year MEIM student at Carnegie Mellon University, focusing on agency/management. Before I decided to pursue my master's in the entertainment industry, I double-majored in mathematics and film & media studies at UC Irvine, and have interned in several fields to figure out what I like most. So here I am! I hope to get the most out of my graduate school experience and be fully prepared for my future career.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+All the things:
 
 1. Get introduced to using Tableau.
-2. Have improved data visualization skills and mindset.
+2. Have improved data visualisation skills and mindset.
 3. Meeting people with different academic backgrounds than I do.
 
 # Portfolio
