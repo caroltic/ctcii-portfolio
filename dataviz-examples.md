@@ -2,4 +2,4 @@
 
 # Data visualization examples
 
-[Consumer Spending](https://github.com/caroltic/ctcii-portfolio/blob/74538c27a3a7aa366c843a66aaf9ac0d00f6add9/Consumer%20Spending.png)
+![Consumer Spending](https://github.com/caroltic/ctcii-portfolio/blob/74538c27a3a7aa366c843a66aaf9ac0d00f6add9/Consumer%20Spending.png)
