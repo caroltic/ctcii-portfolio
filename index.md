@@ -15,9 +15,9 @@ All the things:
 2. Have improved data visualisation skills and mindset.
 3. Meeting people with different academic backgrounds than I do.
 
-# Portfolio
+# Assignments：
 
-## Assignment: [Critique by Design](critique-by-design)
+[Critique by Design](critique-by-design)
 
 Final project: 
 [Part I](final-project-part-one)
