@@ -1,8 +1,5 @@
 | [home page](https://caroltic.github.io/ctcii-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline & Initial Sketches
 For my final project, I want to explore my dog’s daily life through data. Instead of focusing solely on national data and broad patterns about dogs, this project will center on original datasets I create myself, along with some general comparisons to national averages, such as how much I spend on my dog vs. how much it costs to raise a typical large dog in the United States. The datasets I will create will be drawn from my dog’s routines, costs, and environment. My goal is to transform everyday observations into structured data that reveals patterns I might otherwise overlook in daily life. I also want to use this project to improve my dog’s health and strengthen my overall connection with him.
 
