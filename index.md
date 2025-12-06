@@ -17,9 +17,6 @@ All the things:
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
 ## Assignment: [Critique by Design](critique-by-design)
 
 Final project: 
