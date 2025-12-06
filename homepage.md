@@ -28,3 +28,18 @@ Here it might be helpful to include a high-level description of your final proje
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
 
+
+### Setting up a separate page
+
+So here's the code you'll need to add to your own site to create a second page. 
+
+1. First, create a new page in your repository (for example, dataviz1.md)
+2. Next, add a link to that page by inserting the following into your readme.md page:
+
+`[title](dataviz)` or `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` or `[CMU](https://www.cmu.edu)`
+
+Any of those formats will work. Here's some examples of working links: 
+
+`[title](dataviz)` = [title](dataviz)  
+`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
+`[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
