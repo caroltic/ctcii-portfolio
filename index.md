@@ -17,6 +17,7 @@ All the things:
 
 # Assignments：
 
+Critique by Design:
 [Critique by Design](critique-by-design)
 
 Final project: 
